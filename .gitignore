@@ -1,0 +1,17 @@
+# Archivos HLS generados (temporales)
+hls/*.ts
+hls/*.m3u8
+
+# Archivos de backup
+*.bak
+*.backup
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Directorios de IDE
+.idea/
+.vscode/
